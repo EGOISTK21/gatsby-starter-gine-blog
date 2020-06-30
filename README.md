@@ -3,8 +3,7 @@
 
 ## Quik Start ([中文文档](https://gine.me/posts/a788c3e6713e4166a4a8c72a7977b457))
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/mayneyao/gatsby-starter-gine-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79eb8e77-05ad-494e-b772-23fe5a438b4f/deploy-status)](https://app.netlify.com/sites/egoistk21-notion-blog/deploys)
 
 You will get a free site, a repository called [`gatsby-starter-gine-blog`](https://github.com/mayneyao/gatsby-starter-gine-blog) will be created (by netlify) under your github account. Just modify two lines in gatsby-config.js to complete the configuration.
 
