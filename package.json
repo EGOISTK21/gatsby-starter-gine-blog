@@ -19,6 +19,7 @@
         "react-dom": "^16.9.0"
     },
     "devDependencies": {
+        "esm": "^3.2.6",
         "netlify-lambda": "^1.6.3"
     }
 }
